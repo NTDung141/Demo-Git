@@ -1,0 +1,8 @@
+Tạo tài khoản github
+Tạo project ở github
+Ở Git CMD:
+  - git remote add origin + link project github
+  - git remote -v
+  - git push
+  (git push -u origin master) (Nếu chưa push lần nào thì dùng)
+  - Nhập tên tài khoản và pass github
