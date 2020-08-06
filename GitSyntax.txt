@@ -1,0 +1,9 @@
+git init
+git status
+git add
+git commit
+
+git clone + link github
+git pull
+git push origin + nhánh
+git pull --rebase origin + nhánh
